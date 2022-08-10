@@ -166,7 +166,7 @@ T va_arg(va_list ap, T);
 
 `std::initializer_list`是一个类模板，可以通过初始化列表来构造它。
 
-![initializer_list](https://img-blog.csdnimg.cn/2020112212283964.png#pic_center)
+![initializer_list](initializer-list.png)
 
 #### 一个简单的例子
 
